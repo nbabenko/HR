@@ -4,7 +4,7 @@ Hello world.&#x20;
 
 Here is an image:
 
-<figure><img src=".gitbook/assets/Bildschirmfoto 2024-06-12 um 4.17.41 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Bildschirmfoto 2024-06-12 um 4.17.41 PM.png" alt=""><figcaption></figcaption></figure>
 
 
 
